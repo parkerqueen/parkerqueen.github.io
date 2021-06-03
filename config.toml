@@ -1,4 +1,4 @@
-baseURL = "https://parkerqueen.github.io"
+baseURL = "https://parkerqueen.github.io/"
 languageCode = "en-us"
 title = "Parker Queen"
 theme="archie"
