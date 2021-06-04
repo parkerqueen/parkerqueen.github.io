@@ -25,7 +25,11 @@ icon = "github"
 url = "https://github.com/parkerqueen"
 
 [[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/soban-raza/"
+
+[[params.social]]
 name = "Email"
 icon = "mail"
 url = "mailto:sobanr4@gmail.com"
-
