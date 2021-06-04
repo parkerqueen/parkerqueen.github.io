@@ -1,4 +1,6 @@
-Hi! I'm *Soban Raza* (pseudonym: Parker Queen), an undergraduate student of Computer Science at FAST-NUCES, Islamabad. I'll be graduating this July apparently. I have developed a real fondness for computers, an infatuation almost. I keep alternating between the different branches of CS such as Artificial Intelligence, Distributed Computing and Software Engineering. I hope I'll find my true passion one day.
+Hi! I'm *Soban Raza* (pseudonym: Parker Queen), an undergraduate student of Computer Science at FAST-NUCES, Islamabad. I'll be graduating this July apparently. 
+
+I have developed a real fondness for computers, an infatuation almost. I keep alternating between the different branches of CS such as Artificial Intelligence, Distributed Computing and Software Engineering. I hope I'll find my true passion one day.
 
 # cat interests.txt
 * writing efficient programs
