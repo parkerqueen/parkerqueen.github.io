@@ -4,7 +4,7 @@ I have developed a real fondness for computers, an infatuation almost. I keep al
 
 # cat interests.txt
 * writing efficient programs
-* exploring ~~artificial intelligence~~ computer graphics
+* exploring computer graphics
 * reading literature & philosophy
 * listening to heavy metal
 * performing ring gymnastics
