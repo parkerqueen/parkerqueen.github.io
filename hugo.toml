@@ -1,0 +1,8 @@
+baseURL = 'https://parkerqueen.github.io'
+languageCode = 'en-us'
+title = 'Parker Queen // Soban Raza'
+theme = 'terminal'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
