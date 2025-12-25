@@ -39,10 +39,10 @@ pagination.pagerSize = 5
   readingTime = true
 
   # Show table of contents
-  Toc = true
+  Toc = false
 
   # Table of contents title
-  TocTitle = "Table of Contents"
+  # TocTitle = "Table of Contents"
 
 # Twitter Card Configuration
 [params.twitter]
