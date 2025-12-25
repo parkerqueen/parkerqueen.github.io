@@ -13,7 +13,7 @@ I started Antematter with 4 other co-founders in the fall of 2021 for reasons th
 
 When I first observed this pattern, I thought I was being capricious. I thought I was making the answer up every time based on what the listener wanted to hear. Upon further introspection though, I realized a deeper truth.
 
-My answer to the question almost always deeply correlated with my actual beliefs and values at the time of asking. For example, in 2023 I was enamored with the idea of creating [wealth](https://x.com/naval/status/1002103497725173760). So my answer to the question was: "To generate wealth".
+My answer to the question almost always deeply correlated with my actual beliefs and values at the time of asking. For example, in 2023 I was enamored with the idea of creating wealth. So my answer to the question was: "To generate [wealth](https://x.com/naval/status/1002103497725173760)".
 
 Then in 2024, I dropped wealth for a more philosophical alternative i.e. the joy of creation. In other words, I started claiming that creation (of art, language, things etc.) is the only thing worth pursuing and creating a business is the most intense form of creation. "And that's why I started Antematter".
 
@@ -60,9 +60,9 @@ And just like that, we did away with the single biggest responsibility founders 
 1. A business that abandons thinking about its go-to-market must eventually fail (explained in the next section).
 2. We relegated ourselves from being founders to being glorified managers/employees of the Messiah.
 
-In hindsight, we were incredibly naive to think that you can build a car without an engine, or a boat without a rudder. In a way, we were actually worse off than our peer companies. While they also did not invest into a proper business development engine, at least they leaned on freelancing platforms like Upwork. Whereas we placed our bets on indefinite optimism.
+In hindsight, we were incredibly naive to think that you can build a car without an engine, or a boat without a rudder. In a way, we were actually worse off than our peer companies. While they also did not invest into a proper business development engine, at least they leaned on freelancing platforms like Upwork. Whereas we placed our bets on [indefinite optimism](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/).
 
-> To an [indefinite optimist](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/), the future will be better, but he doesn't know how exactly, so he won't make any specific plans. He expects to profit from the future but sees no reason to design it concretely.
+> To an indefinite optimist, the future will be better, but he doesn't know how exactly, so he won't make any specific plans. He expects to profit from the future but sees no reason to design it concretely.
 > 
 > — Peter Thiel, Zero To One
 
@@ -109,7 +109,7 @@ That meant they came with minds of their own, personal lives that bled into work
 
 We could still manage (but not lead) those 30 team members haphazardly by constantly entering [firefighting](https://hbr.org/2000/07/stop-fighting-fires) mode. This terrible mode of existence had us jump from one problem to another, mandating that our day was never our own, requiring that instead of working on the business, we worked in the business. But it worked.
 
-The problem hit once we reached ~65 staff members: [firefighting](https://hbr.org/2000/07/stop-fighting-fires) mode stopped working. Things started breaking, goodwill with clients was affected, and the market handed us a harsh correction. We were beaten back to 45 staff members, and what was most exasperating was that in the six or so odd months we depleted in the firefighting mode, our organization did not grow because all of our time was spent putting out those endless fires.
+The problem hit once we reached ~65 staff members: firefighting mode stopped working. Things started breaking, goodwill with clients was affected, and the market handed us a harsh correction. We were beaten back to 45 staff members, and what was most exasperating was that in the six or so odd months we depleted in the firefighting mode, our organization did not grow because all of our time was spent putting out those endless fires.
 
 This is what the cliche "business is all about people" screams to tell you. It's not a phrase you speak aloud at the company All Hands and then forget its existence. Without thinking deeply about the people aspect of your company, it simply can't grow. This fact, in fact, is equally as important as having an exceptionally differentiated offer.
 
