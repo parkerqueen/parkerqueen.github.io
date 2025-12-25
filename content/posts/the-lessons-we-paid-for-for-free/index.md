@@ -13,7 +13,7 @@ I started Antematter with 4 other co-founders in the fall of 2021 for reasons th
 
 When I first observed this pattern, I thought I was being capricious. I thought I was making the answer up every time based on what the listener wanted to hear. Upon further introspection though, I realized a deeper truth.
 
-My answer to the question almost always deeply correlated with my actual beliefs and values at the time of asking. For example, in 2023 I was enamored with the idea of creating wealth. So my answer to the question was: "To generate wealth".
+My answer to the question almost always deeply correlated with my actual beliefs and values at the time of asking. For example, in 2023 I was enamored with the idea of creating [wealth](https://x.com/naval/status/1002103497725173760). So my answer to the question was: "To generate wealth".
 
 Then in 2024, I dropped wealth for a more philosophical alternative i.e. the joy of creation. In other words, I started claiming that creation (of art, language, things etc.) is the only thing worth pursuing and creating a business is the most intense form of creation. "And that's why I started Antematter".
 
@@ -62,7 +62,7 @@ And just like that, we did away with the single biggest responsibility founders 
 
 In hindsight, we were incredibly naive to think that you can build a car without an engine, or a boat without a rudder. In a way, we were actually worse off than our peer companies. While they also did not invest into a proper business development engine, at least they leaned on freelancing platforms like Upwork. Whereas we placed our bets on indefinite optimism.
 
-> To an indefinite optimist, the future will be better, but he doesn't know how exactly, so he won't make any specific plans. He expects to profit from the future but sees no reason to design it concretely.
+> To an [indefinite optimist](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/), the future will be better, but he doesn't know how exactly, so he won't make any specific plans. He expects to profit from the future but sees no reason to design it concretely.
 > 
 > — Peter Thiel, Zero To One
 
@@ -77,7 +77,7 @@ Furthermore, you can not build a service or an offer in a vacuum. It must be in 
 
 ## You can't outrun the fundamentals
 
-Our go-to-market efforts as they are kicked off in mid-January 2025. Up until today, I have taken more than 150 sales calls. The initial ones were terrible and running on training wheels. Then I discovered 30mpc.com and several other great resources, and the iterative process of improvements was set in motion.
+Our go-to-market efforts as they are kicked off in mid-January 2025. Up until today, I have taken more than 150 sales calls. The initial ones were terrible and running on training wheels. Then I discovered [30mpc.com](https://www.30mpc.com/) and several other great resources, and the iterative process of improvements was set in motion.
 
 First, we adopted weekly sprint planning meetings to assess the past week and conceive a plan for the next week. We tirelessly worked on improving our target lists and trimmed our messaging. We took up agenda setting prior to our calls and crafted discovery trees. We built a list of common objections and installed systems to overcome them. We built rate cards, iterated through 3 versions of our deck and put up prestigious case studies (like our work with The University of Chicago). And so on and so forth.
 
@@ -91,7 +91,7 @@ That's not the only conundrum. The tendency to outrun the fundamentals manifests
 - Nil effort to transition from a generic company to an actual solutions provider, either by way of specializing in use-cases (such as customer support systems, salesforce implementation etc.) or developing into industry verticals (such as healthcare, banking etc.).
 - Repulsion to anything that requires understanding the buyer's journey.
 
-Ironically, we always saw our clients not make the same mistakes we were making. We saw them laboriously think and plan about their niche, their USP, their go-to-market and what not. Maybe it was our shortcut mentality or maybe because humans are not automatically strategic, we chose to turn a blind eye to all of it.
+Ironically, we always saw our clients not make the same mistakes we were making. We saw them laboriously think and plan about their niche, their USP, their go-to-market and what not. Maybe it was our [shortcut mentality](https://www.dawn.com/news/1501371) or maybe because [humans are not automatically strategic](https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/PBRWb2Em5SNeWYwwB), we chose to turn a blind eye to all of it.
 
 The antidote to overlooking fundamentals is relatively easy, at least once you've done the mental hard work of realizing your mistakes and committed to finding a solution. This, however, requires a separate article of its own, and one that I may write in the near future (I am deep in the experimentation phase but seeing some initial success). For the time being, simply dissecting your offer for its weaknesses would be a great start.
 
@@ -103,13 +103,13 @@ The antidote to overlooking fundamentals is relatively easy, at least once you'v
 
 The quote above holds true for all types of businesses but its intensity and vigor for services businesses is on another level altogether. Even if you've built significant Intellectual Property (processes or tech or both), people will remain a significant component of how you fulfill/service clients.
 
-Consequently, to grow, we found ourselves having to recruit more and more people. Even with our modest success, we found ourselves leading a pack of ~30 staff members just three years into our journey. (Real humans, not AI agents. The latter, for the foreseeable future, is impossible).
+Consequently, to grow, we found ourselves having to recruit more and more people. Even with our modest success, we found ourselves leading a pack of ~30 staff members just three years into our journey. (Real humans, not AI agents. The latter, for the foreseeable future, is [impossible](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027)).
 
 That meant they came with minds of their own, personal lives that bled into work, and ambitions that could easily outgrow our company. We had days where the team lost motivation to work and days where they were disgruntled at a recent company policy change.
 
-We could still manage (but certainly not lead) those 30 team members haphazardly by constantly entering firefighting mode. This terrible mode of existence had us jump from one problem to another, mandating that our day was never our own, requiring that instead of working on the business, we worked in the business. But it worked.
+We could still manage (but not lead) those 30 team members haphazardly by constantly entering [firefighting](https://hbr.org/2000/07/stop-fighting-fires) mode. This terrible mode of existence had us jump from one problem to another, mandating that our day was never our own, requiring that instead of working on the business, we worked in the business. But it worked.
 
-The problem hit once we reached ~65 staff members: firefighting mode stopped working. Things started breaking, goodwill with clients was affected, and the market handed us a harsh correction. We were beaten back to 45 staff members, and what was most exasperating was that in the six or so odd months we depleted in the firefighting mode, our organization did not grow because all of our time was spent putting out those endless fires.
+The problem hit once we reached ~65 staff members: [firefighting](https://hbr.org/2000/07/stop-fighting-fires) mode stopped working. Things started breaking, goodwill with clients was affected, and the market handed us a harsh correction. We were beaten back to 45 staff members, and what was most exasperating was that in the six or so odd months we depleted in the firefighting mode, our organization did not grow because all of our time was spent putting out those endless fires.
 
 This is what the cliche "business is all about people" screams to tell you. It's not a phrase you speak aloud at the company All Hands and then forget its existence. Without thinking deeply about the people aspect of your company, it simply can't grow. This fact, in fact, is equally as important as having an exceptionally differentiated offer.
 
