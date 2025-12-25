@@ -54,7 +54,7 @@ pagination.pagerSize = 5
   [languages.en]
     languageName = "English"
     title = "Parker Queen // Soban Raza"
-    copyright = "© 2024 Parker Queen // Soban Raza"
+    copyright = "© 2026 Parker Queen // Soban Raza"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
