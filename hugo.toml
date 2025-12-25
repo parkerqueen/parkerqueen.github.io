@@ -1,8 +1,86 @@
-baseURL = 'https://parkerqueen.github.io'
+# Site Configuration
+baseURL = 'https://parkerqueen.github.io/'
 languageCode = 'en-us'
 title = 'Parker Queen // Soban Raza'
 theme = 'terminal'
+pagination.pagerSize = 5
+
+# Markup Configuration
+[markup.highlight]
+  noClasses = false
+
+# Theme Parameters
+[params]
+  # Content directory name (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # Number of menu items to show before "Show more" (0 = only submenu trigger visible)
+  showMenuItems = 2
+
+  # Show language selector
+  showLanguageSelector = false
+
+  # Set theme to full screen width
+  fullWidthTheme = false
+
+  # Center theme with default width
+  centerTheme = false
+
+  # Automatically use cover.(jpg|png|webp) from resource directory
+  autoCover = true
+
+  # Show last updated date on posts
+  showLastUpdated = false
+
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # Show estimated reading time
+  readingTime = true
+
+  # Show table of contents
+  Toc = true
+
+  # Table of contents title
+  TocTitle = "Table of Contents"
+
+# Twitter Card Configuration
+[params.twitter]
+  creator = ""
+  site = ""
+
+# Language Configuration
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Parker Queen // Soban Raza"
+    copyright = "© 2024 Parker Queen // Soban Raza"
+
+    [languages.en.params]
+      subtitle = "A simple, retro theme for Hugo"
+      owner = ""
+      keywords = ""
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "Parker Queen"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about"
+
+# Cache Configuration
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-
